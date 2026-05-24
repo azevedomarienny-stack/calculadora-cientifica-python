@@ -32,9 +32,14 @@ Este projeto foi desenvolvido com foco em praticar:
 - personalização visual
 - organização de código
 
-## Preview
 
-![Preview da Calculadora](preview.png)
+## Preview Desktop
+
+[preview_pc.png]
+
+## Preview Compacto
+
+[preview.png]
 
 ## Como executar
 
