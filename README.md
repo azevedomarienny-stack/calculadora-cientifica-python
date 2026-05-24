@@ -32,6 +32,10 @@ Este projeto foi desenvolvido com foco em praticar:
 - personalização visual
 - organização de código
 
+## Preview
+
+![Preview da Calculadora](preview.png)
+
 ## Como executar
 
 Instale o CustomTkinter:
