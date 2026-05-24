@@ -35,11 +35,11 @@ Este projeto foi desenvolvido com foco em praticar:
 
 ## Preview Desktop
 
-[preview_pc.png]
+(preview_pc.png)
 
 ## Preview Compacto
 
-[preview.png]
+(preview.png)
 
 ## Como executar
 
